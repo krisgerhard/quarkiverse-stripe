@@ -1,0 +1,9 @@
+name: Stripe
+description: Stripe-java wrapper for Quarkus
+metadata:
+  keywords:
+    - stripe
+#  guide: https://quarkiverse.github.io/quarkiverse-docs/stripe/dev/
+#  categories:
+#    - "miscellaneous"
+#  status: "preview"
